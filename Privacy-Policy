@@ -1,0 +1,88 @@
+# 🔒 Privacy Policy - Fortyra Bot
+
+**Last Updated:** 19-05-2025
+
+This Privacy Policy explains how **Fortyra** ("the Bot", "we", "our") collects, uses, and stores data when you interact with it in Discord.
+
+---
+
+## 1. Information We Collect
+
+The Bot may collect the following data:
+
+- **User Identifiers**  
+  - Discord User ID  
+  - Guild (Server) ID  
+  - Channel IDs (for context-specific commands)  
+  - Message IDs (for moderation and logging)
+
+- **Command Usage**  
+  - Commands executed  
+  - Timestamps of usage  
+  - Success/failure status
+
+- **Server Configuration Data**  
+  - Moderation settings  
+  - Logging channel IDs  
+  - Feature toggles and preferences
+
+> _We **do not** collect personal messages, passwords, or sensitive personal information._
+
+---
+
+## 2. Why We Collect Data
+
+Data is collected for the following purposes:
+
+- To provide bot functionality (commands, moderation, etc.)
+- To save custom server settings
+- To monitor performance and detect abuse
+- To improve features based on usage statistics
+
+---
+
+## 3. Data Storage
+
+- Data is stored securely using [your storage system, e.g., MongoDB, better-sqlite3].
+- Only authorized developers have access to this data.
+- We do **not** share or sell any user data to third parties.
+
+---
+
+## 4. Data Retention
+
+- Server and user configuration data are stored until removed by a server administrator or the bot is removed.
+- Temporary data (like cooldowns or session tokens) may be stored for a limited time (e.g., minutes or hours).
+
+---
+
+## 5. User Control & Rights
+
+As a Discord user, you may:
+
+- Request deletion of your stored data by contacting the developers
+- Reset your server configuration using in-bot commands (if applicable)
+- Remove the bot to halt all data collection in your server
+
+---
+
+## 6. Third-Party Services
+
+If the bot integrates with third-party APIs (e.g., YouTube, Reddit, etc.), you are subject to those services' privacy policies. We do not control third-party data policies.
+
+---
+
+## 7. Changes to This Policy
+
+We may update this Privacy Policy from time to time. Changes will be posted in the official support server and/or GitHub repository.
+
+---
+
+## 8. Contact Us
+
+If you have any questions or concerns about your data:
+
+- 📩 Discord Support Server: https://discord.gg/wb9hknXNcv  
+- 📧 Email: devnotsoprogrammer@gmail.com
+
+---
