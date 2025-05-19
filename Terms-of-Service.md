@@ -65,4 +65,4 @@ These Terms may be updated at any time. Continued use of the Bot implies agreeme
 For questions or support, reach out to us through:
 
 * Discord Support Server: \[https://discord.gg/wb9hknXNcv]
-* Email: \[devnotsoprogrammar@gmail.com]
+* Email: \[devnotsoprogrammer@gmail.com]
